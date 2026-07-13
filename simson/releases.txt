@@ -1,3 +1,2 @@
-test.zip
-thegood.zip	latest
-ballsac.zip
+comp1.zip	latest
+dani.zip
